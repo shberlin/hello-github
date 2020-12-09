@@ -13,8 +13,8 @@ What happens if I take *one star*?
 
 Let's take `some code`in the middle of a sentence.
 
-```{python}
-import pandas as pd
+```{R}
+library(dplyr)
 ```
 
 Here is [a link](https://www.wikipedia.org/).
